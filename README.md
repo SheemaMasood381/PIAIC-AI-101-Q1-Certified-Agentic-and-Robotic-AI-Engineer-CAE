@@ -40,16 +40,7 @@ I have also completed the following compulsory projects, which required individu
 8. **Python Streamlit BMI Calculator Web App**
 9. **Build a Python Website With Streamlit**
 
-## Online Classes and Resources
 
-- **Instructors:** Hamza and Najam
-- **Zoom Classes:** [Zoom Link](https://us06web.zoom.us/j/85338730622?pwd=KBNfeMPBhDTN7GMi7lH9K5UN6APAt9.1)
-- **YouTube Recordings:** [YouTube Channel](https://www.youtube.com/@panaverse)
-- **Supplementary Course:** [AI Python for Beginners by DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
-
-## Tools Used
-
-All projects were completed using Google Colab, which provided a robust platform for writing, testing, and sharing Python code. Access my work on [Google Colab](https://colab.research.google.com/).
 
 ## Contact
 Feel free to reach out if you have any questions or need further information about the projects.
