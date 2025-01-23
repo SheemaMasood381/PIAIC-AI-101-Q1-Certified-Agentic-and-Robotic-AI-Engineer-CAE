@@ -34,6 +34,10 @@ def find_the_treasure_streamlit():
                 break
 
         st.write("Thank you for playing 'Find the Treasure'!")
+        st.markdown("<h5 style='text-align: center;'>Developed by Sheema Masood | Powered by Streamlit</h5>", unsafe_allow_html=True)
+
 
 if __name__ == "__main__":
     find_the_treasure_streamlit()
+
+
